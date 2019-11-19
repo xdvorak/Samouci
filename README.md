@@ -10,7 +10,10 @@ Oblíbený alkohol: Jim beam
 
 Oblíbené číslo: 42
 
-Oblíbená poloha: Rozhodně ne ze zadu, sorry Peter :*
+Oblíbený strom: borovicca
 
+Oblíbený alkohol: captainy
+
+Oblíibené číslo: 22 
 
 Po slovensky se mi nechtělo.
