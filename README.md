@@ -4,13 +4,17 @@ Ahojte :))),
 tohle je testovací soubor pro práci z druého cvičení
 
 
-Oblíbený strom: Ano
 
-Oblíbený alkohol: Jim beam
+Oblíbená poloha: :(((((((((((
 
-Oblíbené číslo: 42
+Oblíbený strom: topol
 
-Oblíbená poloha: Rozhodně ne ze zadu, sorry Peter :*
+Oblíbený alkohol: borovicka
+.
+Oblíbené číslo: 3,14 
+
+
+
 
 
 Po slovensky se mi nechtělo.
