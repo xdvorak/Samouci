@@ -4,13 +4,13 @@ Ahojte :))),
 tohle je testovací soubor pro práci z druého cvičení
 
 
-Oblíbený strom: ...
+Oblíbený strom: topol
 
-Oblíbený alkohol: ...
+Oblíbený alkohol: borovicka
+.
+Oblíbené číslo: 3,14 
 
-Oblíbené číslo: ...
-
-Oblíbená poloha: ...
+Oblíbená poloha: Zo zadu
 
 
 Po slovensky se mi nechtělo.
