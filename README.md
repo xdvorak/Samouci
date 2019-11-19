@@ -6,10 +6,16 @@ aaaa
 
 Oblíbený strom: Ano
 
+<<<<<<< HEAD
 Oblíbený alkohol: Jim beam
 
 <<<<<<< HEAD
 Oblíbené číslo: 42
+=======
+Oblíbený strom: zeleny 
+
+Oblíbený alkohol: .
+>>>>>>> sdass:
 
 Oblíbená poloha: Rozhodně ne ze zadu, sorry Peter :*
 
